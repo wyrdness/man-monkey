@@ -1,177 +1,179 @@
-# Man-Monkey - The Shropshire Canal Cryptid
+# Man-Monkey
 
+> A black, ape-like figure with large white eyes reported on the Shropshire Union Canal at Bridge 39, near Norbury Junction on the Staffordshire–Shropshire border. The original 1879 encounter was recorded by folklorist Charlotte Sophia Burne in 1883.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `man-monkey` |
+| **Category** | CRYPTID |
+| **Subcategory** | British humanoid cryptid / canal apparition |
+| **First recorded** | 1879-01-21 |
+| **Primary range** | Reports are localized to the Shropshire Union Canal corridor near the Staffordshire–Shropshire border, especially the area around Norbury Junction and the canal bridge identified as Bridge 39 |
+| **Status** | documented |
+
+---
 ## Overview
-**The Man-Monkey** is a cryptid reported primarily in the Shropshire region of England, particularly around the Shropshire Union Canal near the village of Ranton. The original and most famous sighting occurred in January 1879 when a man crossing a bridge at night encountered a large, black, ape-like creature with human-like features. Described as being covered in shaggy black fur, standing upright like a human but possessing ape-like characteristics and enormous strength, the Man-Monkey terrified the witness by jumping on the back of his horse-drawn cart. This Victorian-era encounter has spawned over a century of additional sightings, making the Man-Monkey one of England's most enduring cryptid legends.
 
-**Category:** CRYPTID  
-**Danger Level:** Moderate (aggressive encounters reported)  
-**Origin:** Shropshire, England, particularly near canals  
-**Status:** Well-documented phenomenon with ongoing research
+The Man-Monkey is a humanoid cryptid or apparition associated with the Shropshire Union Canal in the English Midlands, particularly with Bridge 39 at the Staffordshire–Shropshire border. The original account, recorded by Charlotte Sophia Burne in Shropshire Folk-Lore (1883) on testimony collected in 1879, describes a labourer driving a horse-cart from Ranton (Staffordshire) to Woodcock (near Newport, Shropshire) on the night of 21 January 1879. As he reached the canal bridge, 'a strange black creature with great white eyes' sprang out of the roadside plantation and onto his horse's back. The man eventually reached home in great fright; a local police-officer he later met reportedly told him that he was lucky not to have met the 'Man-Monkey' that had been seen there before. The story was revived in modern cryptozoology and Fortean writing by Jonathan Downes and Nick Redfern, who collected later 20th-century reports along the same stretch of canal.
+
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| Man-Monkey of Bridge 39 | Shropshire / Staffordshire, England |  |
+| Man-Monkey of the Shropshire Union Canal | England |  |
+
+## Etymology
+
+- **Origin**: English; coined in the 19th-century Shropshire/Staffordshire countryside.
+- **Meaning**: 'Man-Monkey' — a humanoid figure with ape-like features.
+- **First use**: 1879 (oral, in Shropshire/Staffordshire); first published 1883 in Burne and Jackson's Shropshire Folk-Lore.
+
+---
+## Related Phenomena
+
+- [Bigfoot](../bigfoot/) — _similar_: North American hairy hominid cryptid often paralleled with British 'wildman' reports
+- [Yeren](../yeren/) — _similar_: Chinese hairy man-monkey cryptid
+- [Spring-heeled Jack](../spring-heeled-jack/) — _related_: 19th-century English humanoid apparition
+
+---
+## Physical Description
+
+- **Coloration**: black, dark
+- **Morphology**: A short, dark, hairy humanoid figure with prominent eyes, roughly the size and shape of a person but with monkey-like features.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Black, hairy or ape-like body | Reports describe a 'strange black creature' or 'huge black, hairy monkey' | always |
+| Large white eyes | Burne's 1879 account specifies 'great white eyes' | common |
+| Bipedal humanoid form | Described as man-shaped but ape-like | common |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Sudden appearance | Said to spring suddenly from the roadside or canal-side onto passers-by or their animals | common | reported |
+| Disappearance | Vanishes after the encounter, typically without trace | common | reported |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: canal towpaths, bridges, roadside plantations
+
+---
+## Distribution
+
+Reports are localized to the Shropshire Union Canal corridor near the Staffordshire–Shropshire border, especially the area around Norbury Junction and the canal bridge identified as Bridge 39.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Bridge 39, Shropshire Union Canal | Staffordshire / Shropshire, United Kingdom |  | 1879–present |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1879-01-21 | A labourer driving a cart from Ranton to Woodcock is attacked at a Shropshire Union Canal bridge by a black creature with great white eyes that springs onto his horse's back | Original Man-Monkey encounter |
+| 1883-01-01 | Charlotte Sophia Burne and Georgina F. Jackson publish Shropshire Folk-Lore, including the Man-Monkey account | First publication of the story |
+| 2001-01-01 | Nick Redfern publishes Man-Monkey: In Search of the British Bigfoot, collecting later reports and reviving the case | Modern cryptozoological treatment |
+
+---
+## Notable Sightings
+
+### Bridge 39 horse-cart encounter (1879) ⭐
+> **Date**: 1879-01-21  
+> **Location**: Shropshire Union Canal bridge on the road from Ranton to Woodcock (later identified as Bridge 39, near Norbury Junction)  
+> **Witnesses**: 1 (Labourer driving a horse-cart)  
+> **Evidence**: Eyewitness testimony recorded by Charlotte S. Burne  
+A labourer was returning at about ten o'clock at night with a horse-cart from Woodcock back toward Ranton when, just before the canal bridge, 'a strange black creature with great white eyes' sprang from a roadside plantation onto his horse's back. The labourer struck at it with his whip, which passed through the figure 'as through smoke', and reached home in great alarm. A police-officer he encountered the following day reportedly told him not to be frightened — it was only the 'Man-Monkey' which had been seen there before.
+**Credibility**: low — The original published Man-Monkey case.
+**Sources**: Burne and Jackson, Shropshire Folk-Lore (1883)
 
 ---
 
-## Detailed Documentation
 
-### Historical Background
-This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators. The evidence includes eyewitness accounts, cultural traditions, and in some cases physical documentation.
+## Evidence
 
-### Key Characteristics
-[Detailed characteristics and manifestations of this phenomenon...]
+### Documentary
 
-### Notable Cases and Sightings
-[Comprehensive collection of documented encounters and events...]
-
-### Scientific and Academic Analysis
-Multiple researchers and academic institutions have studied this phenomenon from various perspectives including:
-- Folkloric analysis
-- Scientific investigation
-- Anthropological context
-- Psychological factors
-- Environmental considerations
-
-### Cultural Impact
-The phenomenon has influenced:
-- Local traditions and customs
-- Literature and artistic works
-- Modern popular culture
-- Tourism and local economy
-- Academic research programs
-
-### Theories and Explanations
-Various theories have been proposed to explain this phenomenon:
-
-**Supernatural/Paranormal Theories:**
-- Traditional folklore explanations
-- Spiritual or otherworldly origins
-- Unexplained energies or forces
-
-**Natural Explanations:**
-- Geological factors
-- Atmospheric conditions
-- Biological phenomena
-- Psychological factors
-- Misidentification of known phenomena
-
-**Skeptical Analysis:**
-Critical examination of evidence and claims from a scientific skeptical perspective, including consideration of:
-- Confirmation bias
-- Cultural conditioning
-- Environmental factors
-- Hoaxes and exaggeration
-
-### Modern Research and Investigation
-Ongoing efforts to document and understand this phenomenon include:
-- Academic studies
-- Field investigations
-- Data collection projects
-- Technological monitoring
-- Community reporting systems
-
-### Safety and Precautions
-For those visiting or researching areas associated with this phenomenon:
-- Follow local guidelines and warnings
-- Respect private property and sacred sites
-- Document experiences responsibly
-- Maintain skeptical but open-minded approach
-- Report findings to appropriate organizations
-
-### Related Phenomena
-This phenomenon shares characteristics with or is related to:
-- Similar reported phenomena in other locations
-- Parallel folklore traditions
-- Connected supernatural beliefs
-- Related scientific anomalies
-
-### Expert Opinions and Commentary
-Perspectives from various experts including folklorists, scientists, historians, and local authorities provide multiple viewpoints on the nature and significance of this phenomenon.
-
-### Documentation and Evidence
-Available evidence includes:
-- Historical written records
-- Eyewitness testimony
-- Photographic/video documentation (where applicable)
-- Physical traces or artifacts
-- Cultural artifacts and traditions
-- Scientific measurements and data
-
-### Ongoing Mysteries
-Questions that remain unanswered:
-- Specific aspects still lacking explanation
-- Contradictory evidence requiring resolution
-- Areas requiring further research
-- Debates within research community
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Burne and Jackson, Shropshire Folk-Lore (1883) | 1883 | The published 1883 record of the 1879 Bridge 39 encounter, the foundational text of the Man-Monkey case. | disputed |
 
 ---
+## Theories & Explanations
 
-## Conclusion
+### Paranormal / Cryptozoological
 
-[Name] represents a fascinating intersection of [relevant themes: folklore/science/culture/mystery]. Whether understood as supernatural occurrence, natural phenomenon misunderstood, cultural artifact, or something yet to be explained, it continues to captivate researchers and the public alike.
+**Ghost / apparition** _(Charlotte S. Burne)_
 
-The enduring interest in this phenomenon speaks to:
-- Human curiosity about the unexplained
-- Cultural significance of traditional beliefs
-- Importance of continued open-minded investigation
-- Value of preserving folklore and local knowledge
+Burne records that the labourer's whip passed through the figure 'as through smoke', and proposes that the Man-Monkey may be the ghost of a person drowned in that stretch of canal, or a survival of werewolf-like folklore.
 
-Future research may provide additional insights, but for now, [name] remains a compelling mystery worthy of serious study and respectful consideration.
+### Scientific
 
----
+**British cryptid hominid** _(Nick Redfern, Jonathan Downes)_
 
-## Version History
-- **1.0.0** (2026-01-14): Comprehensive documentation created for FINAL BATCH 39
+The Man-Monkey is treated by some modern cryptozoologists as part of a British 'wildman' or 'British Bigfoot' reporting tradition.
 
-## Bibliography and Sources
+### Skeptical
 
-### Academic and Scientific Sources
-1. Relevant peer-reviewed academic papers
-2. Scientific journal articles
-3. University research publications
-4. Technical reports and studies
+**Folkloric / boggart tradition** _(Folklorists working in the Burne tradition)_
 
-### Folklore and Historical Sources
-5. Traditional folklore collections
-6. Historical documents and records
-7. Cultural anthropology texts
-8. Regional history books
+The Man-Monkey is best understood as a 19th-century English folk apparition — a 'boggart' of the canal corridor — rather than as a flesh-and-blood animal.
 
-### Contemporary Research
-9. Modern investigative reports
-10. Field research documentation
-11. Database compilations
-12. Online research communities
 
-### Media and Popular Culture
-13. Documentary films
-14. News articles and reports
-15. Books on the subject
-16. Podcasts and interviews
+## Popular Culture
 
-### Regional and Local Sources
-17. Local historical society records
-18. Community oral histories
-19. Regional folklore collections
-20. Tourist and informational materials
+**Literature**: Charlotte S. Burne and Georgina F. Jackson, Shropshire Folk-Lore (1883); Nick Redfern, Man-Monkey: In Search of the British Bigfoot (CFZ Press, 2007)
 
-### Skeptical and Critical Analysis
-21. Debunking analyses where relevant
-22. Scientific criticism
-23. Rational explanations
-24. Investigative journalism
-
-### Online Resources
-25. Dedicated research websites
-26. Academic databases
-27. Archival collections
-28. Community forums and discussions
-
-### Expert Consultations
-29. Interviews with researchers
-30. Statements from authorities
-31. Expert opinion pieces
-32. Professional organization publications
-
-[Additional sources 33-55 would include more specific references relevant to each phenomenon]
+**Other**: Frequently featured on canal-folklore tours and in British Fortean magazines
 
 ---
+## Research
 
-**FINAL BATCH 39 - Toward 500 TOTAL ENTRIESall* ✓
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Charlotte Sophia Burne | Folklore Society | Recorded the foundational 1879 Bridge 39 encounter in Shropshire Folk-Lore (1883) | 1880s |
+| Nick Redfern | Independent (cryptozoology / Fortean writing) | Modern survey of Man-Monkey reports along the Shropshire Union Canal | 2000s–present |
+| Jonathan Downes | Centre for Fortean Zoology | Editorial and field work on British cryptid reports including the Man-Monkey | 1990s–present |
+
+### Organizations
+
+- [Centre for Fortean Zoology](https://cfz.org.uk) — British cryptozoology and Fortean field research
+
+Ongoing collection of reports along the Shropshire Union Canal corridor by independent Fortean and cryptozoological researchers.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
